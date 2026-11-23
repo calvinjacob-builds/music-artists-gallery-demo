@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b6f38e1d.css",
+    "main.js": "./static/js/main.5db01cb2.js",
+    "static/media/logo.png": "./static/media/logo.8938659d9d3daace96e3.png",
+    "static/media/creed.jpg": "./static/media/creed.650189945f1023aed806.jpg",
+    "static/media/oned.jpg": "./static/media/oned.21d684622ea456165cfe.jpg",
+    "static/media/bootstrap-icons.woff?": "./static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "./static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/queen.jpg": "./static/media/queen.3ed559bd1f2432d8351c.jpg",
+    "static/media/phoebe.jpg": "./static/media/phoebe.4a178effe2bc22d8affb.jpg",
+    "static/media/harry.jpg": "./static/media/harry.b3fb699df76c9376bb80.jpg",
+    "static/media/tameimpala.jpg": "./static/media/tameimpala.c9cd5bd053d18a46fd73.jpg",
+    "static/media/acdc.jpg": "./static/media/acdc.2007f012686fb01167e9.jpg",
+    "static/media/chrisbrown.jpg": "./static/media/chrisbrown.62cd7772213604eb9601.jpg",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b6f38e1d.css",
+    "static/js/main.5db01cb2.js"
+  ]
+}
